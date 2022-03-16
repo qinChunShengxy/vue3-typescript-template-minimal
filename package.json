@@ -6,6 +6,7 @@
     "build": "vue-tsc --noEmit && vite build",
     "serve": "vite preview"
   },
+  "homepage": "https://github.com/qinChunShengxy/vue3-typescript-template-minimal",
   "dependencies": {
     "axios": "^0.26.0",
     "element-plus": "^2.0.2",
